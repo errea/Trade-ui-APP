@@ -27,13 +27,15 @@
     &copy;2021 Acme Corp. All Rights Reserved by ERI.
   </p>
 </div>
-</template> 
+</template>
 
 
 <script>
+// import { mapActions, mapGetters } from 'vuex';
+
 
 export default {
-    name: 'NavHeader',
+    name: 'LoginForm',
     components: {
   },
   data () {
