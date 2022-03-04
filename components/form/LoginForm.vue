@@ -19,7 +19,7 @@
         Sign In
       </button>
       <a class="inline-block align-baseline font-bold text-sm text-blue-500 hover:text-blue-800" href="#">
-        hAVE YOU Forgottten your Password?
+        Have you forgottten your Password?
       </a>
     </div>
   </form>
